@@ -28,6 +28,9 @@ Analyze retail sales data to understand product-wise and region-wise performance
 - Increase focus and inventory on high-performing products in top regions
 - Improve marketing and pricing strategy for weak products and regions
 
+-This project includes Excel and SQL analysis to identify
+top and weak products and regions based on revenue and profit.
+
 ## Author
 Aditya Patidar  
 Aspiring Data Analyst
